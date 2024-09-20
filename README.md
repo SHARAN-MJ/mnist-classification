@@ -46,7 +46,7 @@ Fit the model and predict the single input
 
 ## PROGRAM
 
-### Name:SHARAN MJ
+### Name: SHARAN MJ
 ### Register Number:212222240097
 ```
 import numpy as np
