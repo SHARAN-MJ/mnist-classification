@@ -165,18 +165,18 @@ print(x_single_prediction)
 
 ### Classification Report
 
-![alt text](image-3.png)
+![Screenshot 2024-09-23 142921](https://github.com/user-attachments/assets/882e81ba-99ff-41c1-9549-cd55d94b52cc)
 
 
 ### Confusion Matrix
 
-![alt text](image-4.png)
+![Screenshot 2024-09-23 142928](https://github.com/user-attachments/assets/77ea4761-d7a8-4473-9990-8c82561c432d)
 
 
 
 ### New Sample Data Prediction
 
-![alt text](image-5.png)
+![Screenshot 2024-09-23 142954](https://github.com/user-attachments/assets/3de3ac00-a029-46eb-9205-ae43874388f0)
 
 ## RESULT
 A convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed sucessfully.
