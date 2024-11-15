@@ -48,7 +48,7 @@ Fit the model and predict the single input
 
 ### Name: SHARAN MJ
 ### Register Number:212222240097
-```
+``` python 
 import numpy as np
 from tensorflow import keras
 from tensorflow.keras import layers
@@ -157,26 +157,26 @@ print(x_single_prediction)
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![Screenshot 2024-09-20 115753](https://github.com/user-attachments/assets/27ac2557-c559-47a1-b4c3-810abac77090)
-![Screenshot 2024-09-20 115804](https://github.com/user-attachments/assets/a4a4828f-876e-448e-96d4-dba86fe7dde3)
+![Screenshot 2024-11-15 103819](https://github.com/user-attachments/assets/d4b9cb35-5bba-414c-9a4d-f406bcd3a373)
+![Screenshot 2024-11-15 103843](https://github.com/user-attachments/assets/8e9e9365-8545-4e25-8c8f-976b75b992da)
 
-![Screenshot 2024-09-20 115816](https://github.com/user-attachments/assets/cc89f09e-bce5-462d-bf6b-3c7f08eecd6c)
+![Screenshot 2024-11-15 103832](https://github.com/user-attachments/assets/d90eb354-2a3e-42ce-b019-b615a134c16d)
 
 
 ### Classification Report
 
-![Screenshot 2024-09-23 142921](https://github.com/user-attachments/assets/882e81ba-99ff-41c1-9549-cd55d94b52cc)
+![Screenshot 2024-11-15 103858](https://github.com/user-attachments/assets/faf99758-5c67-4934-a23c-3fed4aef40d3)
 
 
 ### Confusion Matrix
+![Screenshot 2024-11-15 103910](https://github.com/user-attachments/assets/32d40ea1-a355-4607-b07b-2ab3d42e2cae)
 
-![Screenshot 2024-09-23 142928](https://github.com/user-attachments/assets/77ea4761-d7a8-4473-9990-8c82561c432d)
 
 
 
 ### New Sample Data Prediction
 
-![Screenshot 2024-09-23 142954](https://github.com/user-attachments/assets/3de3ac00-a029-46eb-9205-ae43874388f0)
+![Screenshot 2024-11-15 103934](https://github.com/user-attachments/assets/f03b4872-2cc9-4ab6-8de0-b459716ffa89)
 
 ## RESULT
-A convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed sucessfully.
+A convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed successfully.
